@@ -18,8 +18,8 @@ Features
 Screenshots
 ![Anasayfa](https://github.com/user-attachments/assets/c2d07565-dca6-4eec-bcb3-f51bb6096eba)
 
+![arttır](https://github.com/user-attachments/assets/6058cb50-e5db-4a40-8858-6c7370f1e529)
 
-[arttır](https://github.com/user-attachments/assets/0f23fec5-0463-4ff4-9250-ae4277f17948)
 
 ![azalt](https://github.com/user-attachments/assets/521326f1-f112-4463-acf9-3b244875ffd3)
 
