@@ -14,8 +14,11 @@ Features
 	•	Multiple ViewControllers: Each screen (start, game, win, and lose) is managed by separate ViewControllers.
 	•	UI Elements: Includes labels, buttons, text fields, and Image View an interactive user experience.
 	•	Random Number Generation: The game uses Swift’s random number generation to create an unpredictable game environment.
+
 Screenshots
-![Anasayfa](https://github.com/user-at!
+![Anasayfa](https://github.com/user-attachments/assets/c2d07565-dca6-4eec-bcb3-f51bb6096eba)
+
+
 [arttır](https://github.com/user-attachments/assets/0f23fec5-0463-4ff4-9250-ae4277f17948)
 
 ![azalt](https://github.com/user-attachments/assets/521326f1-f112-4463-acf9-3b244875ffd3)
