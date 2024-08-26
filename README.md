@@ -15,11 +15,18 @@ Features
 	•	UI Elements: Includes labels, buttons, text fields, and Image View an interactive user experience.
 	•	Random Number Generation: The game uses Swift’s random number generation to create an unpredictable game environment.
 Screenshots
-/Users/ertugrul/Desktop/Anasayfa.png
-/Users/ertugrul/Desktop/arttır.png
-/Users/ertugrul/Desktop/azalt.png
-/Users/ertugrul/Desktop/kazandınız.png
-/Users/ertugrul/Desktop/Simulator Screenshot - iPhone 15 Pro - 2024-08-26 at 08.41.27.png
+![Anasayfa](https://github.com/user-at!
+[arttır](https://github.com/user-attachments/assets/0f23fec5-0463-4ff4-9250-ae4277f17948)
+
+![azalt](https://github.com/user-attachments/assets/521326f1-f112-4463-acf9-3b244875ffd3)
+
+
+![kazandınız](https://github.com/user-attachments/assets/3d501e6c-528a-449e-86e9-9bc192d4e705)
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-26 at 08 41 27](https://github.com/user-attachments/assets/d0f30aa2-2b4d-4245-b38d-a5f0f71d005a)
+
+
+
 Author
 
 Ertuğrul Pancar
